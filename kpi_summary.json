@@ -1,0 +1,15 @@
+{
+  "dataset_type": "SIMULATED \u2014 not real company data",
+  "orders": 1200,
+  "units_sold": 5316,
+  "revenue": 278114.32,
+  "profit": 89603.83,
+  "profit_margin_pct": 32.22,
+  "average_order_value": 231.76,
+  "data_quality": {
+    "rows": 1200,
+    "duplicate_order_ids": 0,
+    "missing_values": 0,
+    "negative_units": 0
+  }
+}
