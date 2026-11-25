@@ -1,6 +1,8 @@
 # Retail Sales Performance & Business Intelligence Dashboard
 
-**Portfolio project for data analyst internship applications**
+## Dashboard Preview
+
+![Sales Performance Analytics Dashboard](Screenshot%202026-11-25%20192508.png)
 
 > **Data transparency:** `retail_sales_simulated.csv` is a synthetic practice dataset. It does not represent real company transactions or verified business outcomes. Clearly label results as simulated.
 
