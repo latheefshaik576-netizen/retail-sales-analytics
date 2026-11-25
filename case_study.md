@@ -24,3 +24,38 @@ Run `analysis.py` to create checked summaries and charts. Use the resulting outp
 
 ## Next steps
 Add screenshots of your completed dashboard, explain the key observations and limitations, and include a short project walkthrough.
+## Dashboard overview
+
+The Power BI dashboard, titled **Sales Performance Analytics**, provides an interactive overview of retail sales performance.
+
+The dashboard includes:
+- **Total Sales:** Displays overall revenue.
+- **Total Profit:** Displays the overall profit generated.
+- **Units Sold:** Shows the total quantity of products sold.
+- **Monthly Sales Trend:** Tracks sales performance over time.
+- **Category Analysis:** Compares sales across product categories.
+- **Regional Analysis:** Compares sales across geographical regions.
+- **Region Slicer:** Allows users to filter the dashboard interactively.
+
+## Tools and Technologies
+
+| Tool | Purpose |
+|---|---|
+| Python | Data analysis and processing |
+| Pandas | Data manipulation and aggregation |
+| SQL | Business queries and data analysis |
+| Power BI | Interactive dashboard development |
+| GitHub | Project version control and documentation |
+
+## Project Limitations
+
+- The dataset is synthetic and does not represent actual company transactions.
+- The analysis is limited to the fields and records available in the dataset.
+- The dashboard presents historical data rather than live business transactions.
+- Findings should be interpreted as practice-based analytical observations.
+
+## Conclusion
+
+This project demonstrates an end-to-end retail sales analytics workflow using Python, SQL, and Power BI. It combines data preparation, analytical queries, KPI calculations, and interactive visualization to demonstrate how data can be transformed into meaningful business information.
+
+The project also demonstrates practical skills in data analysis, business intelligence, visualization, and analytical reporting.
